@@ -49,7 +49,7 @@ Add your `Full name` and `GitHub Username` in the `list[]` given in `lib/contrib
 ```dart
   // < Add your Full Name in the List[] >
    const data = [
-    {"name": "Rishu Rajan", "username": "RishuRajan"},
+    {"name": "Anuj Sharma", "username": "OnlySingles"},
     {"name": "Your Name", "username": "yourusername"},
     ];
 ```
